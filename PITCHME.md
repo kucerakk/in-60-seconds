@@ -1,4 +1,4 @@
-# Let's Get Starteed
+# Let's Get Started
 
 ---
 
